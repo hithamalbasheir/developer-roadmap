@@ -8,6 +8,7 @@ There are several built-in data types, including:
 - bool: used to store true or false values
 - List: used to store ordered collections of objects
 - Map: used to store unordered collections of key-value pairs
+- Records: used to store a collection of objects and can be unpacked into variables
 
 Additionally, there are other complex data types like dynamic, var, and Object in Dart programming language which is used in Flutter.
 
